@@ -1,9 +1,0 @@
-Il server delle casse si dovrebbe trovare nel vostro ufficio ed è senza monitor.
-
-Per prima cosa verificare se il pc è accesso, quindi verificare che sul pulsante dell'accensione sia accessa una lucina.
-Se la luce non è presente procedere con l'accensione del pc.
-
-Se il pc è accesso verificare che il cavo di rete sia collegato correttamente, quindi verificare dietro al pc che in corrispondenza del cavo quadrato ethernet sia accessa una luce arancione.
-Se la luce arancione non è presente provare a scollegare e ricollegare il cavo di rete, altrimenti contattare l'assistenza Magazzini Gabrielli tramite mail all'indirizzo helpdesk@gabriellispa.it
-
-Se entrambe le verifiche sono state effettuate ed il messaggio di errore compare ancora contattare l'assistenza Magazzini Gabrielli tramite mail all'indirizzo helpdesk@gabriellispa.it.
