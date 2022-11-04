@@ -1,0 +1,7 @@
+Il dispositivo dovrebbe trovarsi nell'armadio rack nel vostro ufficio. Dovrebbe essere vicino al router ADSL.
+Per procedere al riavvio scollegare il cavo dell'alimentazione (cavo tondo nero).
+Attendere 20 secondi.
+Ricollegare il cavo dell'alimentazione.
+Entro 5 minuti il dispositivo dovrebbe emettere un suono.
+
+Se avete già effettuato il riavvio ed il suono non e' stato emesso o e' ricomparso il messaggio di errore contattare l'assistenza Magazzini Gabrielli alla mail helpdesk@gabriellispa.it
